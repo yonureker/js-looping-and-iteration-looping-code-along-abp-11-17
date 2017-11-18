@@ -20,5 +20,3 @@ function tailsNeverFails(){
   }
   return(`You got ${x} tails in a row!`);
 }
-
-tailsNeverFails();
