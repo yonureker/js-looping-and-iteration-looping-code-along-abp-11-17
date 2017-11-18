@@ -10,7 +10,7 @@ printBadges();
 
 
 function theFlip(){
-  return Math.random() >= 0.1;
+  return Math.random() >= 0.5;
 }
 
 function tailsNeverFails(){
